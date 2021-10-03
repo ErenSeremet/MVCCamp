@@ -1,0 +1,17 @@
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.Migrations.mig1.resources
+C:\Users\BabaProXD\source\repos\MVCProjectCamp\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.GenerateResource.cache
